@@ -122,6 +122,3 @@ yatra-genie/
 
 This project was developed as part of the EPICS (Engineering Projects in Community Service) program at **VIT Bhopal University**.
 
----
-
-Just replace `your-username` in the clone URL with your actual GitHub username before pasting. You can paste the entire thing directly into your `README.md` file.
